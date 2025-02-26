@@ -1,1 +1,1 @@
-![头像](image/1.jpeg)
+![头像](img/1.jpeg)
